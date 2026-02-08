@@ -1,7 +1,10 @@
 [package]
-name = "sovereign_sqrp_radar"
+name = "protocol_security_scanner"
 version = "1.0.0"
+authors = ["DevJourneyAR"]
 edition = "2021"
+license = "MIT"
+description = "High-performance protocol security and vulnerability scanner built for SQRP standards."
 
 [dependencies]
 # For High-Performance Cryptography
