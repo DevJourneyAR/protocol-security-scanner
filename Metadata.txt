@@ -1,5 +1,6 @@
-DOCUMENT IDENTIFIER: SQRP-VERIFY-2026
-COMPILER: Rustc 1.70+
-ARCHITECTURE: x86_64 / ARM64
-AUDIT METHOD: Standard I (Local Zero-Point)
-TIMESTAMP: February 2026
+PROJECT_NAME: PROTOCOL SECURITY SCANNER
+AUTHOR: DevJourneyAR
+LEGAL_OWNER: DevJourneyAR (2026)
+AUDIT_STANDARD: Tier 1 Cybersecurity Audit
+NOTICE: All intellectual property rights are strictly reserved to DevJourneyAR. 
+Any third-party references found in metadata are system-generated artifacts and do not constitute ownership.
