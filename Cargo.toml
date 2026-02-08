@@ -1,0 +1,15 @@
+[package]
+name = "sovereign_sqrp_radar"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+# For High-Performance Cryptography
+ring = "0.17"
+# For Secure Memory Handling
+zeroize = "1.7"
+# For Fast Data Serialization
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+# High-speed timing and benchmarking
+chrono = "0.4"
