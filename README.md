@@ -1,4 +1,6 @@
 # Sovereign SQRP Radar - Core Standard I
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevJourneyAR%2FSovereign-Radar-System.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevJourneyAR%2FSovereign-Radar-System?ref=badge_shield)
+
 
 ## 🛡️ Project Overview
 An advanced, high-performance radar tracking and cryptographic security system built with **Rust**. This system is designed for real-time target acquisition, threat assessment (EWS), and secure data obfuscation.
@@ -18,3 +20,6 @@ The system implements **Standard I Cybersecurity Auditing** protocols, ensuring 
 - **Language**: Rust 2021 Edition
 - **Build System**: Cargo
 - **Performance**: Sub-microsecond cryptographic signing per packet.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDevJourneyAR%2FSovereign-Radar-System.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDevJourneyAR%2FSovereign-Radar-System?ref=badge_large)
